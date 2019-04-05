@@ -9,6 +9,7 @@
  */
 
 const Project = use('App/Models/Project')
+
 class ProjectController {
   /**
    * Show a list of all projects.
