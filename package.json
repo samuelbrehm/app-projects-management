@@ -28,10 +28,13 @@
     "@adonisjs/mail": "^3.0.9",
     "@adonisjs/redis": "^2.0.7",
     "@adonisjs/validator": "^5.0.6",
+    "@sentry/node": "^5.3.0",
     "adonis-kue": "^5.0.1",
+    "adonis-sentry": "^1.0.4",
     "crypto": "^1.0.1",
     "moment": "^2.24.0",
-    "pg": "^7.9.0"
+    "pg": "^7.9.0",
+    "raven": "^2.6.4"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
