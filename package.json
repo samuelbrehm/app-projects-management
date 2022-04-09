@@ -32,7 +32,7 @@
     "adonis-kue": "^5.0.1",
     "adonis-sentry": "^1.0.4",
     "crypto": "^1.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pg": "^7.9.0",
     "raven": "^2.6.4"
   },
